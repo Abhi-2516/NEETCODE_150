@@ -4,7 +4,7 @@ This repository contains my solutions to the NeetCode 150 problems, organized by
 
 ## 📊 Progress Overview
 
-| Topic | Status | Last Updated |
+| Topic | Status |
 |-------|--------|--------------|
 | 01 - Arrays and Hashing | ✅ Completed |
 | 02 - Two Pointers | ✅ Completed |
