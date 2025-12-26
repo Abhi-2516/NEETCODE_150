@@ -17,7 +17,7 @@ This repository contains my solutions to the NeetCode 150 problems, organized by
 
 ## 🎯 About NeetCode 150
 
-The NeetCode 150 is a curated list of 150 LeetCode problems that cover all the important patterns and data structures needed for technical interviews. This collection is designed to be more focused and efficient than grinding through random problems.
+The NeetCode 150 is a curated list of 150 LeetCode problems that cover all the important patterns and data structures needed for technical interviews. This collection is designed to be more focused and efficient than grinding through random problem.
 
 ## 📁 Repository Structure
 
